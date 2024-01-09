@@ -1,0 +1,60 @@
+.footer {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 50px;
+	background-color: rgb(13, 13, 53);
+    margin-top: 40px;
+    gap: 130px;
+}
+
+.comn {
+	flex: 1;
+	margin-right: 20px;
+    list-style: none;
+}
+
+.comn h2 {
+    text-transform: uppercase;
+    color: azure;
+}
+
+.comn h4 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: azure;
+}
+.comn li {
+    margin-bottom: 15px;
+    color: grey;
+}
+.h ul li {
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: inline; 
+    margin-left: 7px;
+}
+
+.h ul p {
+    margin-left: 40px;
+    color: grey;
+    display: flex;
+}
+.h{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(13, 13, 53);
+}
+
+.comn {
+    flex: 1;
+}
+h2 img{
+    width:25px;
+    height: auto;
+    display: block; 
+}
+h2{
+    display:flex;
+    align-items: center;
+}
